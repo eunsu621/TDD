@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="chap03.ExpiryDateCalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-01-22T04:44:10" hostname="eunsukim’s-MacBook-Air" time="0.032">
+  <properties/>
+  <testcase name="첫_납부일과_만료일_일자가_다를때_만원_납부()" classname="chap03.ExpiryDateCalculatorTest" time="0.022"/>
+  <testcase name="납부일과_한달_뒤_일자가_같지_않음()" classname="chap03.ExpiryDateCalculatorTest" time="0.004"/>
+  <testcase name="만원_납부하면_한달_뒤가_만료일이_됨()" classname="chap03.ExpiryDateCalculatorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
